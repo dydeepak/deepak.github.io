@@ -8,7 +8,7 @@ body {
 
 /* Initial menu */
 .menu {
-  background: url('subtle-pattern/purty_wood.png');
+  background: url('purty_wood.png');
   box-shadow: 2px 0px 30px;
   left: -285px;  /* start off behind the scenes */
   height: 100%;
@@ -20,7 +20,7 @@ body {
 /* Basic styling */
 
 body {
-  background-image: url('subtle-pattern/maze_white.png'); 
+  background-image: url('maze_white.png'); 
    height: 100%;
   /*-webkit-background-size: cover;
      -moz-background-size: cover;
